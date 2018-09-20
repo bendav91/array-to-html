@@ -5,4 +5,4 @@ Array to HTML
 3. Navigate to `dist` and view `index.html`
 4. Instructions on screen
 
-The meat is inside `src/js`ArrayToHTML`.
+The meat is inside `src/jsArrayToHTML`.
